@@ -8,20 +8,6 @@ var content = fs.readFileSync('/home/ubuntu/workspace/assignment1/data/m09.txt')
 var $ = cheerio.load(content);
 
 /*
-// print names of thesis students
-$('h3').each(function(i, elem) {
-    console.log($(elem).text());
-});
-
-// print project titles
-$('.project .title').each(function(i, elem) {
-    console.log($(elem).text());
-});
-
-//to see these results, change to the thesis.txt file.
-*/
-
-/*
 $ ('td').each(function(i, element){
    if ($(element.style == 'border-bottom: 1px solid #e3e3e3; width: 260px')) {
        

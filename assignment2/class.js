@@ -1,3 +1,5 @@
+//class code
+
 var fs = require('fs');
 var cheerio = require('cheerio');
 
@@ -17,3 +19,4 @@ $('h3').each(function(i, elem) {
 $('.project .title').each(function(i, elem) {
     console.log($(elem).text());
 });
+
