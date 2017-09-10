@@ -1,6 +1,6 @@
 var request = require('request');
 var fs = require('fs');
-/*
+
 request('http://visualizedata.github.io/datastructures/data/m01.html', function (error, response, body) {
   if (!error && response.statusCode == 200) {
     fs.writeFileSync('/home/ubuntu/workspace/assignment1/data/m01.txt', body);
@@ -56,18 +56,18 @@ request('http://visualizedata.github.io/datastructures/data/m08.html', function 
   }
   else {console.error('request failed')}
 });
-*/
+
 request('http://visualizedata.github.io/datastructures/data/m09.html', function (error, response, body) {
   if (!error && response.statusCode == 200) {
     fs.writeFileSync('/home/ubuntu/workspace/assignment1/data/m09.txt', body);
   }
   else {console.error('request failed')}
 });
-/*
+
 request('http://visualizedata.github.io/datastructures/data/m10.html', function (error, response, body) {
   if (!error && response.statusCode == 200) {
     fs.writeFileSync('/home/ubuntu/workspace/assignment1/data/m10.txt', body);
   }
   else {console.error('request failed')}
 });
-*/
+
