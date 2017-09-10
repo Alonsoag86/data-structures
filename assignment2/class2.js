@@ -1,4 +1,4 @@
-//class code
+//class code for thesis project
 
 var fs = require('fs');
 var cheerio = require('cheerio');
