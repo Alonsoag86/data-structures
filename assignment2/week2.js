@@ -6,6 +6,7 @@ var content = fs.readFileSync('/home/ubuntu/workspace/assignment1/data/m09.txt')
 
 // load `content` into a cheerio object
 var $ = cheerio.load(content);
+var finalAddress = []
 
 /*
 $ ('td').each(function(i, element){
@@ -30,9 +31,11 @@ $ ('td').each(function(i, element){
 */
 
 $('div.detailsBox').each(function(i, element){
-      var address = $(element) .parent() .contents() .slice(3) .eq(3) .text();
-      console.log(address);
-    });
+      var address = $(element) .parent() .contents() .slice(3) .eq(3) .text() .trim();
+      finalAddress.push(address);
+      });
+      
+console.log(finalAddress);
     
 //"On the Internet, nobody knows you're a dog"
 //Really? Well, it seems pretty obvious that a 
