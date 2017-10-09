@@ -12,6 +12,7 @@ var finalAddress = [];
 var wheelchair = [];
 var meetingName = [];
 var locationName = [];
+var detailsBox = [];
 
 
 
@@ -43,7 +44,10 @@ $('div.detailsBox').each(function(i, element){
 //This code gets you the meeting name
 
 
-
+$('div.detailsBox').each(function(i, element){
+        var details = $(element) .contents() .text() .trim();
+        detailsBox.push(details);
+});
 
 
 $ ('td').each(function(i, element){
@@ -58,3 +62,4 @@ console.log(finalAddress);
 console.log(locationName);
 console.log (wheelchair);
 console.log(meetingName);
+console.log(detailsBox);
