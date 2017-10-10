@@ -14,17 +14,17 @@ $('table table table tbody').find('tr').each(function(i, elem){
 var missingInfo = $(elem).find('td').eq(1).html().split('<br>');
   for (var i = 0; i < missingInfo.length; i ++){
       if (missingInfo[i].match(/ From/g) !== null) {
-        
+        //console.log(missingInfo);
         var idealObject = {};
         
-        $('div.detailsBox').each(function(i, element){
+        $(elem).find('div.detailsBox').each(function(i, element){
         var address1 = $(element) .parent() .contents() .slice(3) .eq(3) .text() .trim();
         var address2 = address1.substring(0, address1.indexOf(','));
         var address3 = address2 + ', New York, NY';
         idealObject.googleAddress = address3.split(' ').join('+');
         });
         
-         $('div.detailsBox').each(function(i, element){
+         $(elem).find('div.detailsBox').each(function(i, element){
         var address1 = $(element) .parent() .contents() .slice(3) .eq(3) .text() .trim();
         var address2 = address1.substring(0, address1.indexOf(','));
         var address3 = address2 + ', New York, NY';
@@ -46,13 +46,12 @@ var missingInfo = $(elem).find('td').eq(1).html().split('<br>');
         $(elem).find('div.detailsBox').each(function(i, element){
         idealObject.meetingName = $(element) .parent() .contents() .slice(2) .eq(2) .text() .trim();
         
-        $('table table table tbody').find('tr').each(function(i, elem){
+        //var meetingTypes = missingInfo[i];
+        //idealObject.meetingType = meetingTypes;
         
-        idealObject.meeting_Type = $(elem).find('td').eq(1).contents().filter(function(){ 
-        return this.nodeType == 3;
-        }).eq(3).text().trim();
-        });
-        
+        $(elem).find('td').eq(1).each(function(i, element){
+        idealObject.meetingType = $(element).html().split('<br>')[1].split('<b>Meeting Type</b>');
+       
         $(elem).find('td').eq(0).each(function(i, element){
         idealObject.wheelchair = $(this) .contents() .nextAll() .slice(4) .eq(4).text() .trim();
         
@@ -69,7 +68,7 @@ var missingInfo = $(elem).find('td').eq(1).html().split('<br>');
         
         });
     
-            
+        });    
     });
 
         //console.log(idealObject);
