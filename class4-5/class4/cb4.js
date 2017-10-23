@@ -1,3 +1,4 @@
+//code for the citibike example reviewed in class
 // npm install mongodb
 
 var request = require('request');

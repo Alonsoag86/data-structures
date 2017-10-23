@@ -46,9 +46,6 @@ var missingInfo = $(elem).find('td').eq(1).html().split('<br>');
         $(elem).find('div.detailsBox').each(function(i, element){
         idealObject.meetingName = $(element) .parent() .contents() .slice(2) .eq(2) .text() .trim();
         
-        //var meetingTypes = missingInfo[i];
-        //idealObject.meetingType = meetingTypes;
-        
         $(elem).find('td').eq(1).each(function(i, element){
         idealObject.meetingType = $(element).html().split('<br>')[1].split('<b>Meeting Type</b>');
        

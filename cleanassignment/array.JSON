@@ -1,0 +1,112 @@
+[
+ {
+  "eventName": "125 - TWO FOR ONE - ",
+  "location": "Harlem Children's Zone Admin. Offices",
+  "details": "O 2nd, S 3rd, Anniv. 4th & BB 5th Sat.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "startTime": "4:15 PM",
+    "endTime": "5:30 PM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "35 East 125 Street, New York, NY"
+  }
+ },
+ {
+  "eventName": "EAST HARLEM - East Harlem",
+  "location": "Peter Jay Sharpe Building",
+  "details": "Living Sober 1st Tuesday.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "startTime": "6:30 PM",
+    "endTime": "7:30 PM",
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Living Sober"
+   }
+  ],
+  "address": {
+   "street": "223 East 117th Street, New York, NY"
+  }
+ },
+ {
+  "eventName": "GRUPO NUEVA VIDA - Grupo Nueva Vida",
+  "details": "Spanish speaking meetings.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "startTime": "5:00 PM",
+    "endTime": "6:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Saturdays",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "2126 2nd Avenue, New York, NY"
+  }
+ },
+ {
+  "eventName": "HARLEM 1 PM RECOVERY - Harlem 1 PM Recovery",
+  "location": "Veterans Residence",
+  "details": "ID REQUIRED TO ENTER BUILDING",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "startTime": "1:00 PM",
+    "endTime": "2:00 PM",
+    "meetingType": "T = Tradition meeting"
+   },
+   {
+    "day": "Mondays",
+    "startTime": "1:00 PM",
+    "endTime": "2:00 PM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "22 East 119th Street, New York, NY"
+  }
+ }
+]

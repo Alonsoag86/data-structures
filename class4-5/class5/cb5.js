@@ -1,3 +1,5 @@
+//Code for the citibike example reviewed in class
+
 var fs = require('fs');
 
 var dbName = 'citibike';
