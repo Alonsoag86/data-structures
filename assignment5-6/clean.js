@@ -1,86 +1,120 @@
 var fs = require('fs');
+var request = require('request'); 
 var cheerio = require('cheerio');
+var async = require('async');
 
-// load the thesis text file into a variable, `content`
 var content = fs.readFileSync('/home/ubuntu/workspace/assignment1/data/m09.txt');
 
-// load `content` into a cheerio object
-var $ = cheerio.load(content);
-
-var finalOutput = [];
-
-$('table table table tbody').find('tr').each(function(i, elem){
-    
-var missingInfo = $(elem).find('td').eq(1).html().split('<br>');
-  for (var i = 0; i < missingInfo.length; i ++){
-      if (missingInfo[i].match(/ From/g) !== null) {
-        //console.log(missingInfo);
-        var idealObject = {};
-        
-        $(elem).find('div.detailsBox').each(function(i, element){
-        var address1 = $(element) .parent() .contents() .slice(3) .eq(3) .text() .trim();
-        var address2 = address1.substring(0, address1.indexOf(','));
-        var address3 = address2 + ', New York, NY';
-        idealObject.googleAddress = address3.split(' ').join('+');
-        });
-        
-         $(elem).find('div.detailsBox').each(function(i, element){
-        var address1 = $(element) .parent() .contents() .slice(3) .eq(3) .text() .trim();
-        var address2 = address1.substring(0, address1.indexOf(','));
-        var address3 = address2 + ', New York, NY';
-        idealObject.address = address3.toString();
-        });
-        
-        var daysOfWeek = missingInfo[i].match(/Mondays|Tuesdays|Wednesdays|Thursdays|Fridays|Saturdays|Sundays/gi);
-        idealObject.weekDays = daysOfWeek.toString();
-        
-        var startTimes = missingInfo[i].match(/\d.+/gi);
-        idealObject.startTime = startTimes.toString().split(' <b>')[0];
-        
-        var endTimes = missingInfo[i].match(/\d.+/gi);
-        idealObject.endTime = endTimes.toString().split('</b> ')[1].slice(0, -1);
-
-        $(elem).find('div.detailsBox').each(function(i, element){
-        idealObject.location = $(this) .prev() .prev() .prev() .prev() .prev() .prev() .prev() .text();
-        
-        $(elem).find('div.detailsBox').each(function(i, element){
-        idealObject.meetingName = $(element) .parent() .contents() .slice(2) .eq(2) .text() .trim();
-        
-        $(elem).find('td').eq(1).each(function(i, element){
-        idealObject.meetingType = $(element).html().split('<br>')[1].split('<b>Meeting Type</b>');
-       
-        $(elem).find('td').eq(0).each(function(i, element){
-        idealObject.wheelchair = $(this) .contents() .nextAll() .slice(4) .eq(4).text() .trim();
-        
-        $(elem).find('div.detailsBox').each(function(i, element){
-        idealObject.details = $(element) .contents() .text() .trim();
-        
-        
-        finalOutput.push(idealObject);
-        
-            
-        });
-   
-        });
-        
-        });
-    
-        });    
-    });
-
-        //console.log(idealObject);
-      }
-  }
-  
+// I removed whitespace to see results more easily. Whitespace only ignored in XML mode
+var $ = cheerio.load(content, {
+    ignoreWhitespace: true,
+    xmlMode: true
 });
 
-require('fs').writeFile('nolatlong.json',
-    JSON.stringify(finalOutput),
-    function (err) {
-        if (err) {
-            console.error('error');
-        }
-    }
-);
+//CREATE OBJECT OUTSIDE OF LOOP AND CONDITIONAL
+var finalOutput = [];
 
-console.log(finalOutput);
+populateArray();
+
+function populateArray () {
+    $("tbody").find('tr').each(function(i, row) {
+        // iterating through rows, aka meetings
+        
+        var thisMeeting = new Object(); // create a new object for every meeting
+        
+        var firstCell = $(row).find('td').eq(0); // this is where you'll find all the information for the events. You don't need a for loop here since there's no point on repeating this information twice.
+        
+        thisMeeting.eventName = firstCell.find('b').text(); // get event name
+        
+        if (firstCell.find('h4').text() != "") {              // if there's no empty space
+         thisMeeting.location = firstCell.find('h4').text();  // get location
+        }                                                     // name
+    
+        if (firstCell.find('div.detailsBox').contents().text().trim() != ""){
+        thisMeeting.details = firstCell.find('div.detailsBox').contents().text().trim(); //get details
+        }
+        thisMeeting.wheelchairAccess = firstCell.find('span').find('alt').text().replace("", 'true'); // get wheelchair acess. If the meeting has it, then = true.
+        
+        thisMeeting.meetingsInformationArray = []; // create an array that will contain times, days and aditional information. This array will go inside every new object.
+        
+        var secondCell = $(row).find('td').eq(1); // this is where you'll find all the information for the array we just created.
+        var meetingsSplit = secondCell.html().split(' <br/> <br/> <b>'); //this code will make it easier to read the contents and separate them later.
+        // iterating over meeting times, days and information on the second cell.
+        for (var t = 0; t < meetingsSplit.length; t++) {
+            
+            var thisDay = new Object(); // doing this will create a new object for every separate day as you iterate over the contents of the second cell.
+            thisDay.day = meetingsSplit[t].replace('s', 'Sundays').match(/Mondays|Tuesdays|Wednesdays|Thursdays|Fridays|Saturdays|Sundays/gi).toString();
+            var firstTime = meetingsSplit[t].match(/\d.+/gi).toString().split(' <b>')[0];
+            var separate = firstTime.split(' ');
+            var timeOfDay = separate[1];
+            var stepOne = separate[0];
+            var stepTwo = stepOne.split(':');
+            var hour = +stepTwo[0];
+            var minute = +stepTwo[1];
+            if (timeOfDay === 'PM' && hour < 12) {
+            thisDay.startTime = hour + 12 + ':' + minute;
+            } else {
+            thisDay.startTime = hour + ':' + minute;
+            }
+            var secondTime = meetingsSplit[t].match(/\d.+/gi).toString().split('</b> ')[1].slice(0, 7);
+            var separateTwo = secondTime.split(' ');
+            var timeOfDayTwo = separateTwo[1];
+            var stepOneEndTime = separateTwo[0];
+            var stepTwoEndTime = stepOneEndTime.split(':');
+            var hourTwo = +stepTwoEndTime[0];
+            var minuteTwo = +stepTwoEndTime[1];
+            if (timeOfDayTwo === 'PM' && hourTwo < 12) {
+            thisDay.endTime = hourTwo + 12 + ':' + minuteTwo;
+            } else {
+            thisDay.endTime = hourTwo + ':' + minuteTwo;
+            }
+            thisDay.from = firstTime;
+            thisDay.to = secondTime;
+            //thisDay.startTime = meetingsSplit[t].match(/\d.+/gi).toString().split(' <b>')[0]; // get start time.
+            //thisDay.endTime = meetingsSplit[t].match(/\d.+/gi).toString().split('</b> ')[1].slice(0, 7);// get end time. It might be different for other zones. If that's the case it would be better to change slice for replace.
+            if (typeof meetingsSplit[t].match(/\d.+/gi).toString().split('</b> ')[2] != 'undefined'){
+            thisDay.meetingType = meetingsSplit[t].match(/\d.+/gi).toString().split('</b> ')[2].replace(' <br/><b>Special Interest', "").replace(' <br/> <br/> ', "");    
+            }
+            //thisDay.meetingType = meetingsSplit[t].match(/\d.+/gi).toString().split('</b> ')[2].replace(' <br/><b>Special Interest', "").replace(' <br/> <br/> ', ""); // get meeting type.
+            if (typeof meetingsSplit[t].match(/\d.+/gi).toString().split('</b> ')[3] != 'undefined') { // writing this conditional will allow the program to continue its work if it doesn't encounter any undefined elements.
+                thisDay.specialInterest = meetingsSplit[t].match(/\d.+/gi).toString().split('</b> ')[3].replace(' <br/> <br/> ', ""); // get special interest
+            }
+            
+            thisMeeting.meetingsInformationArray.push(thisDay); // push all the information to: a) meetingsInformationArray, and then to b) thisMeeting.
+        }
+        
+        var thisAddress = new Object ();
+        var address1 = firstCell.contents().eq(6).text().trim();
+        var address2 = address1.substring(0, address1.indexOf(','));
+        var address3 = address2 + ', New York, NY';
+        thisAddress.street = address3.toString();
+        
+        thisMeeting.address = thisAddress;
+    
+        
+        finalOutput.push(thisMeeting); // push everything to your outer most array.
+        
+        //console.log (finalOutput); // console log to see that the information is being added.
+    });
+    
+
+async.eachSeries(finalOutput, lookUpGeos, makeJSON);
+}
+
+
+function lookUpGeos(meeting, callback){
+    //console.log(meeting);
+    var value = meeting.address.street;
+    var apiRequest = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + value.split(' ').join('+');
+    console.log(apiRequest);
+    request(apiRequest, function(err, resp, body) {
+         if (err) {throw err;}
+         meeting.address.latLong = JSON.parse(body).results[0].geometry.location;
+         
+     });
+     setTimeout(callback, 1000);
+}
+
+function makeJSON() {
+require('fs').writeFile('./zone09array.JSON', JSON.stringify(finalOutput, null, 1));
+}

@@ -1,0 +1,3110 @@
+[
+ {
+  "eventName": "12 CONCEPTS WORKSHOP",
+  "location": "N.Y.U Bronfman Center",
+  "details": "Only meets on the 1st Wednesday of the month. A.A.'s 12 Concepts Meeting.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 20.15,
+    "endTime": 21.15,
+    "from": "8:15 PM",
+    "to": "9:15 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "7 East 10th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7332774,
+    "lng": -73.99463109999999
+   }
+  }
+ },
+ {
+  "eventName": "22 BELOW Twenty-Two Below",
+  "location": "Gustavus Adolphus Church",
+  "details": "Trad.1st Wed., Fri.=Topic, Sat.=Round Robin Sharing All meetings are non-smoking.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Living Sober"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "155 East 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7384377,
+    "lng": -73.98400269999999
+   }
+  }
+ },
+ {
+  "eventName": "AA AT THE THREE JEWELS MEDITATION",
+  "location": "Three Jewels Community Center",
+  "details": "Topic meeting, focus is on meditation Thursday meeting ends at 7:10",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 18,
+    "endTime": 19.15,
+    "from": "6:00 PM",
+    "to": "7:15 PM",
+    "meetingType": "Meditation"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 19,
+    "endTime": 20.3,
+    "from": "7:00 PM",
+    "to": "8:30 PM",
+    "meetingType": "Meditation"
+   }
+  ],
+  "address": {
+   "street": "61 Fourth Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7307918,
+    "lng": -73.9903808
+   }
+  }
+ },
+ {
+  "eventName": "AGNOSTICS AT NOON",
+  "location": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+  "details": "GLBT Focus. All are welcome.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12,
+    "endTime": 13,
+    "from": "12:00 PM",
+    "to": "1:00 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Agnostic"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "ALIVE AGAIN",
+  "location": "Seafarers & Intl House",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 13,
+    "endTime": 14,
+    "from": "1:00 PM",
+    "to": "2:00 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "123 East 15th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7346749,
+    "lng": -73.9880046
+   }
+  }
+ },
+ {
+  "eventName": "AT BILL'S PLACE",
+  "location": "Calvary Church Parish House",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 18.3,
+    "endTime": 19.3,
+    "from": "6:30 PM",
+    "to": "7:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "61 Gramercy Park North, New York, NY",
+   "latLong": {
+    "lat": 40.7389514,
+    "lng": -73.9868257
+   }
+  }
+ },
+ {
+  "eventName": "ATLANTIC BY THE BOOK",
+  "location": "Gustavus Adolphus Lutheran Church",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   }
+  ],
+  "address": {
+   "street": "155 East 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7384377,
+    "lng": -73.98400269999999
+   }
+  }
+ },
+ {
+  "eventName": "ATLANTIC DOWNTOWN",
+  "location": "Mabel Bacon High School of the Future",
+  "details": "no entry before 5:30",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "O = Open meeting"
+   }
+  ],
+  "address": {
+   "street": "127 East 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7390867,
+    "lng": -73.9853658
+   }
+  }
+ },
+ {
+  "eventName": "AVENUE B CLEAN AND DRY",
+  "location": "Trinity Lower East Side Lutheran Parish",
+  "details": "Ground Floor Anniversaries last Thursday of month",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 19,
+    "endTime": 20.15,
+    "from": "7:00 PM",
+    "to": "8:15 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "602 East 9th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7260263,
+    "lng": -73.9801554
+   }
+  }
+ },
+ {
+  "eventName": "BIG BOOK MAGIC",
+  "location": "McBurney YMCA",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 19.45,
+    "endTime": 20.45,
+    "from": "7:45 PM",
+    "to": "8:45 PM",
+    "meetingType": "BB = Big Book meeting",
+    "specialInterest": "Big Book Topic"
+   }
+  ],
+  "address": {
+   "street": "125 West 14th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380197,
+    "lng": -73.99775679999999
+   }
+  }
+ },
+ {
+  "eventName": "CHELSEA MORNINGS",
+  "location": "St. Peters Episcopal Church- Rectory",
+  "details": "Wed. alternates between Step and Tradition",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 8,
+    "endTime": 9,
+    "from": "8:00 AM",
+    "to": "9:00 AM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 8,
+    "endTime": 9,
+    "from": "8:00 AM",
+    "to": "9:00 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 8,
+    "endTime": 9,
+    "from": "8:00 AM",
+    "to": "9:00 AM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 8,
+    "endTime": 9,
+    "from": "8:00 AM",
+    "to": "9:00 AM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 8,
+    "endTime": 9,
+    "from": "8:00 AM",
+    "to": "9:00 AM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Meditation"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 8,
+    "endTime": 9,
+    "from": "8:00 AM",
+    "to": "9:00 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "346 W. 20th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7440891,
+    "lng": -74.0019889
+   }
+  }
+ },
+ {
+  "eventName": "CHELSEA NOONERS",
+  "location": "McBurney YMCA",
+  "details": "Anniv. Last Thursday All Meetings Are Non-Smoking",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 12,
+    "endTime": 13,
+    "from": "12:00 PM",
+    "to": "1:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12,
+    "endTime": 13,
+    "from": "12:00 PM",
+    "to": "1:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "125 West 14th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380197,
+    "lng": -73.99775679999999
+   }
+  }
+ },
+ {
+  "eventName": "COMPLETE ABANDON",
+  "location": "Our Lady of Immaculate Conception",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "414 East 14th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7308098,
+    "lng": -73.9819564
+   }
+  }
+ },
+ {
+  "eventName": "COMPLETELY SOBER",
+  "location": "Fulton Senior Center",
+  "details": "Non-Smoking Meeting.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 18.45,
+    "endTime": 20,
+    "from": "6:45 PM",
+    "to": "8:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "119 Ninth Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7433245,
+    "lng": -74.0041176
+   }
+  }
+ },
+ {
+  "eventName": "CROSSROADS",
+  "location": "Christopher House",
+  "details": "Check in at front desk all meetings are non-smoking",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "O = Open meeting"
+   }
+  ],
+  "address": {
+   "street": "202 West 24 Street, New York, NY",
+   "latLong": {
+    "lat": 40.7448224,
+    "lng": -73.9958574
+   }
+  }
+ },
+ {
+  "eventName": "EAST MEETS WEST IN SOBRIETY",
+  "location": "Brotherhood Synagogue",
+  "details": "*Open Anniv Last Wednesday Non-Smoking Meeting.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "28 Gramercy Park South, New York, NY",
+   "latLong": {
+    "lat": 40.7370361,
+    "lng": -73.98538719999999
+   }
+  }
+ },
+ {
+  "eventName": "EAST VILLAGE GROUP East Village",
+  "location": "Middle Collegiate Church",
+  "details": "LGBT; all welcome. Tues 7pm=Artists in Recovery, all welcome. 8:30 1st Tues of Month Bus mtg. at 8:05",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19,
+    "endTime": 20.15,
+    "from": "7:00 PM",
+    "to": "8:15 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "50 East 7th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7275578,
+    "lng": -73.98765759999999
+   }
+  }
+ },
+ {
+  "eventName": "EXPERIENCE STRENGTH AND HOPE",
+  "location": "University Settlement House",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "273 Bowery, New York, NY",
+   "latLong": {
+    "lat": 40.7237496,
+    "lng": -73.992395
+   }
+  }
+ },
+ {
+  "eventName": "GRACE ON BROADWAY",
+  "location": "Grace Church Office Building",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 8.15,
+    "endTime": 9.15,
+    "from": "8:15 AM",
+    "to": "9:15 AM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 8.15,
+    "endTime": 9.15,
+    "from": "8:15 AM",
+    "to": "9:15 AM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 8.15,
+    "endTime": 9.15,
+    "from": "8:15 AM",
+    "to": "9:15 AM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "802 Broadway, New York, NY",
+   "latLong": {
+    "lat": 40.7319869,
+    "lng": -73.99093069999999
+   }
+  }
+ },
+ {
+  "eventName": "GRAMERCY",
+  "location": "Brothhood Synagogue",
+  "details": "Last Mon.6:30pm=Anniv Last Thursday Tradition",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 18.3,
+    "endTime": 19.3,
+    "from": "6:30 PM",
+    "to": "7:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 18.3,
+    "endTime": 19.3,
+    "from": "6:30 PM",
+    "to": "7:30 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "28 Grammercy Park South, New York, NY",
+   "latLong": {
+    "lat": 40.7370361,
+    "lng": -73.98538719999999
+   }
+  }
+ },
+ {
+  "eventName": "GRATEFUL GROUP OF A.A.",
+  "location": "Saint George Episcopal Church",
+  "details": "Tue.Topic=Gratitude, Thu=11th Step Meditation Meeting,",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 17,
+    "endTime": 18,
+    "from": "5:00 PM",
+    "to": "6:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 17,
+    "endTime": 18,
+    "from": "5:00 PM",
+    "to": "6:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 17,
+    "endTime": 18,
+    "from": "5:00 PM",
+    "to": "6:00 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 17,
+    "endTime": 18,
+    "from": "5:00 PM",
+    "to": "6:00 PM",
+    "meetingType": "Meditation"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 17,
+    "endTime": 18,
+    "from": "5:00 PM",
+    "to": "6:00 PM",
+    "meetingType": "O = Open meeting",
+    "specialInterest": "Men"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 17,
+    "endTime": 18,
+    "from": "5:00 PM",
+    "to": "6:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 18.15,
+    "endTime": 19,
+    "from": "6:15 PM",
+    "to": "7:00 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Fourth Step Workshop"
+   }
+  ],
+  "address": {
+   "street": "209 East 16th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7343774,
+    "lng": -73.98496999999999
+   }
+  }
+ },
+ {
+  "eventName": "GRUPO EL MILAGRO",
+  "location": "Church of the Nativity",
+  "details": "Spanish speaking meeting.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "O = Open meeting"
+   }
+  ],
+  "address": {
+   "street": "44 2nd Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.72498849999999,
+    "lng": -73.9899772
+   }
+  }
+ },
+ {
+  "eventName": "GRUPO GRATITUD",
+  "location": "Our Lady of Guadalupe Church",
+  "details": "Mon=Step 1st Mon. Spanish speaking meetings.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "O = Open meeting"
+   }
+  ],
+  "address": {
+   "street": "229 West 14th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7393831,
+    "lng": -74.0007935
+   }
+  }
+ },
+ {
+  "eventName": "GRUPO SOBRIEDAD",
+  "location": "Our Lady of Guadalupe Church",
+  "details": "Spanish speaking meeting.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 13,
+    "endTime": 14,
+    "from": "1:00 PM",
+    "to": "2:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "229 West 14th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7393831,
+    "lng": -74.0007935
+   }
+  }
+ },
+ {
+  "eventName": "HIGH NOON",
+  "location": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+  "details": "Interpreted for the deaf and hard of hearing Check listing at the center for the room number.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 12,
+    "endTime": 13,
+    "from": "12:00 PM",
+    "to": "1:00 PM",
+    "meetingType": "O = Open meeting",
+    "specialInterest": "Interpreted for the Deaf"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "JUST FOR TODAY",
+  "location": "Brotherhood Synagogue",
+  "details": "Please Do Not Call the Synagogue for Meeting Info.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "28 Gramercy Park South, New York, NY",
+   "latLong": {
+    "lat": 40.7370361,
+    "lng": -73.98538719999999
+   }
+  }
+ },
+ {
+  "eventName": "LAeX TERMINAL UNIQUENESS",
+  "location": "Lesbian, Gay, Bisexual, & Transgender Community Center",
+  "details": "LA Transplants/Vistors All Welcome",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "O = Open meeting"
+   }
+  ],
+  "address": {
+   "street": "208 W 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "LEARNING TO LIVE ( :1)",
+  "location": "The Upright Citizens Brigade Theatre",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12,
+    "endTime": 1,
+    "from": "12:00 PM",
+    "to": "1:00 AM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Promises"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 12,
+    "endTime": 13,
+    "from": "12:00 PM",
+    "to": "1:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 12,
+    "endTime": 13,
+    "from": "12:00 PM",
+    "to": "1:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 12,
+    "endTime": 13,
+    "from": "12:00 PM",
+    "to": "1:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 12,
+    "endTime": 13,
+    "from": "12:00 PM",
+    "to": "1:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "307 W. 26th St., New York, NY",
+   "latLong": {
+    "lat": 40.7476699,
+    "lng": -73.9975237
+   }
+  }
+ },
+ {
+  "eventName": "LEARNING TO LIVE ( :II)",
+  "location": "St. Columba Church",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "O = Open meeting"
+   }
+  ],
+  "address": {
+   "street": "343 West 25th Street, New York, NY",
+   "latLong": {
+    "lat": 40.74750299999999,
+    "lng": -73.999141
+   }
+  }
+ },
+ {
+  "eventName": "LIVING NOW Living Now (:II)",
+  "location": "Theatre 80",
+  "details": "Tue.7pm=4th & 5th Step Workshop, **Beginners 3 speaker panel Sat.& Sun.10am Meeting is in the main theatre.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 10.15,
+    "endTime": 11.15,
+    "from": "10:15 AM",
+    "to": "11:15 A",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 13,
+    "endTime": 14,
+    "from": "1:00 PM",
+    "to": "2:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 13,
+    "endTime": 14,
+    "from": "1:00 PM",
+    "to": "2:00 PM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Women"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 13,
+    "endTime": 14,
+    "from": "1:00 PM",
+    "to": "2:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 13,
+    "endTime": 14,
+    "from": "1:00 PM",
+    "to": "2:00 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 13,
+    "endTime": 14,
+    "from": "1:00 PM",
+    "to": "2:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 13,
+    "endTime": 14,
+    "from": "1:00 PM",
+    "to": "2:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Beginners Workshop"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Fourth Step Workshop"
+   }
+  ],
+  "address": {
+   "street": "80 St. Mark's Place, New York, NY",
+   "latLong": {
+    "lat": 40.727506,
+    "lng": -73.98583909999999
+   }
+  }
+ },
+ {
+  "eventName": "LIVING TODAY",
+  "location": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+  "details": "Gay & lesbian focus. All are welcome.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 18.45,
+    "endTime": 19.45,
+    "from": "6:45 PM",
+    "to": "7:45 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "O = Open meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "MADISON PARK BEGINNERS",
+  "location": "Intercare",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "51 East 25th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7419966,
+    "lng": -73.986121
+   }
+  }
+ },
+ {
+  "eventName": "MANHATTAN",
+  "location": "Gustavus Adolphus Church",
+  "details": "Open Anniv Last Tuesday. All meetings are non-smoking.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19,
+    "endTime": 20.15,
+    "from": "7:00 PM",
+    "to": "8:15 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "155 East 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7384377,
+    "lng": -73.98400269999999
+   }
+  }
+ },
+ {
+  "eventName": "N.Y.U. (NOW YOU UNDERSTAND)",
+  "location": "Bronfman Center",
+  "details": "Tue.2pm=11th Step Meditation, Thu.12:30pm=Topic, Fri.12:30pm Note: There Is No 2:00 Meeting On The Last Day Of The Month Anniv. Last Weekday of the Month",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Promises"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "7 East 10th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7332774,
+    "lng": -73.99463109999999
+   }
+  }
+ },
+ {
+  "eventName": "NEVER HAD A LEGAL DRINK",
+  "location": "German Evangelist Lutheran Church of St. Paul",
+  "details": "Anniv. Last Thursday",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Young People"
+   }
+  ],
+  "address": {
+   "street": "315 West 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7450964,
+    "lng": -73.99969039999999
+   }
+  }
+ },
+ {
+  "eventName": "NEW LIFE IN SOBRIETY",
+  "location": "Friends Meeting House",
+  "details": "T 1st Monday, Anniv Last Friday. All meetings are non-smoking.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 19,
+    "endTime": 20.3,
+    "from": "7:00 PM",
+    "to": "8:30 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "15 Rutherford Place, New York, NY",
+   "latLong": {
+    "lat": 40.7338148,
+    "lng": -73.98534490000002
+   }
+  }
+ },
+ {
+  "eventName": "NINJAS IN RECOVERY",
+  "location": "The Realization Center",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "25 East 15th- Conference Room H, New York, NY",
+   "latLong": {
+    "lat": 40.7549818,
+    "lng": -73.98718579999999
+   }
+  }
+ },
+ {
+  "eventName": "NINTH AVENUE (:II)",
+  "location": "General Theological Seminary",
+  "details": "Fri.6pm OD=11th Step Meditation, Fri.7:15pm O=Anniv Last Friday, +HIV Topic LGBTQ Friendly. All are welcome. Fri 7:15 CD=Relationships in Sobriety Business meeting at Holy Apostoles on 1st Monday a",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Eleventh Step Meditation"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19.15,
+    "endTime": 20.15,
+    "from": "7:15 PM",
+    "to": "8:15 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19.15,
+    "endTime": 20.15,
+    "from": "7:15 PM",
+    "to": "8:15 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "H.I.V Positive"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19.15,
+    "endTime": 20.15,
+    "from": "7:15 PM",
+    "to": "8:15 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19.15,
+    "endTime": 20.15,
+    "from": "7:15 PM",
+    "to": "8:15 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "175 9th Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.7456308,
+    "lng": -74.0037443
+   }
+  }
+ },
+ {
+  "eventName": "OADW (ONCE A DRUNK WOMAN)",
+  "location": "The Realization Center",
+  "details": "Women's Meeting except for last Tuesday of the month.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Women"
+   }
+  ],
+  "address": {
+   "street": "19 Union Square West, New York, NY",
+   "latLong": {
+    "lat": 40.7361079,
+    "lng": -73.991242
+   }
+  }
+ },
+ {
+  "eventName": "P.A.X",
+  "location": "Gustavus Adolphus Church",
+  "details": "Mon.BB Meeting is in the basement, Tue.6:45pm=T Last Tue. Basement is not Wheel Chair Accessible.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 18.45,
+    "endTime": 19.45,
+    "from": "6:45 PM",
+    "to": "7:45 PM",
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Men"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 18.45,
+    "endTime": 19.45,
+    "from": "6:45 PM",
+    "to": "7:45 PM",
+    "meetingType": "BB = Big Book meeting",
+    "specialInterest": "Men"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 18.45,
+    "endTime": 19.45,
+    "from": "6:45 PM",
+    "to": "7:45 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Men"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 18.45,
+    "endTime": 19.45,
+    "from": "6:45 PM",
+    "to": "7:45 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Men"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 18.45,
+    "endTime": 19.45,
+    "from": "6:45 PM",
+    "to": "7:45 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Men"
+   }
+  ],
+  "address": {
+   "street": "155 East 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7384377,
+    "lng": -73.98400269999999
+   }
+  }
+ },
+ {
+  "eventName": "POT LUCK",
+  "location": "Veterans Administration Hospital",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 21,
+    "endTime": 22,
+    "from": "9:00 PM",
+    "to": "10:00 P",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "423 East 23rd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7370457,
+    "lng": -73.9768398
+   }
+  }
+ },
+ {
+  "eventName": "POTPOURRI",
+  "location": "St. George's Church",
+  "details": "T Last Tuesday, Thu.=Topic",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 18,
+    "endTime": 18,
+    "from": "6:00 PM",
+    "to": "6:00 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "209 East 16th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7343774,
+    "lng": -73.98496999999999
+   }
+  }
+ },
+ {
+  "eventName": "PRIMETIME NYC (II)",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 13.3,
+    "endTime": 14.3,
+    "from": "1:30 PM",
+    "to": "2:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "411 East 12th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7298724,
+    "lng": -73.9827759
+   }
+  }
+ },
+ {
+  "eventName": "SATURDAY BEGINNERS",
+  "location": "St. George's Church",
+  "details": "Beginners meeting meets in Olmsted Hall Big Book topic meeting meets in the Music Room",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 10.3,
+    "endTime": 11.3,
+    "from": "10:30 AM",
+    "to": "11:30 A",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 10.3,
+    "endTime": 11.3,
+    "from": "10:30 AM",
+    "to": "11:30 A",
+    "meetingType": "BB = Big Book meeting"
+   }
+  ],
+  "address": {
+   "street": "209 East 16th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7343774,
+    "lng": -73.98496999999999
+   }
+  }
+ },
+ {
+  "eventName": "SATURDAY WEEKENDERS",
+  "location": "Epiphany Roman Catholic Church",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "239 East 21st Street, New York, NY",
+   "latLong": {
+    "lat": 40.73695680000001,
+    "lng": -73.9822937
+   }
+  }
+ },
+ {
+  "eventName": "SAVE HER A SEAT",
+  "location": "First Presbyterian Church",
+  "details": "Tue=S Last Tue. & focus is on women with 5 years of sobriety or more. All are welcome Fri=O Last Fri. & focus is on women with 5 years of sobriety or less. All are welcome. Friday beginners = Trans Welcome",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 18.3,
+    "endTime": 19.45,
+    "from": "6:30 PM",
+    "to": "7:45 PM",
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Women"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19.15,
+    "endTime": 20.3,
+    "from": "7:15 PM",
+    "to": "8:30 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Women"
+   }
+  ],
+  "address": {
+   "street": "12 West 12th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7347542,
+    "lng": -73.9950052
+   }
+  }
+ },
+ {
+  "eventName": "SECOND AVENUE CLEAN AND DRY",
+  "location": "Church of the Nativity",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 17,
+    "endTime": 18,
+    "from": "5:00 PM",
+    "to": "6:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "44 2nd Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.72498849999999,
+    "lng": -73.9899772
+   }
+  }
+ },
+ {
+  "eventName": "SOBER MIRACLES",
+  "location": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+  "details": "S&M Lifestyles",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 21.3,
+    "endTime": 22.3,
+    "from": "9:30 PM",
+    "to": "10:30 P",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Special Purpose Groups"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "SOBRIETY ON THE SQUARE",
+  "location": "Church of the Ascension Parish House",
+  "details": "T Last Tue., Fri=Topic, Sat=11th Step Meditation",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "12 West 11th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7341126,
+    "lng": -73.9957561
+   }
+  }
+ },
+ {
+  "eventName": "SPEAKER MAGIC",
+  "location": "PS 41 Elementary School",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "O = Open meeting"
+   }
+  ],
+  "address": {
+   "street": "116 West 11th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7355264,
+    "lng": -73.9991134
+   }
+  }
+ },
+ {
+  "eventName": "STRAIGHT 12 (:II) DOWNTOWN SATURDAY NIGHT",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 18.15,
+    "endTime": 19.15,
+    "from": "6:15 PM",
+    "to": "7:15 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "80 5th Avenue, New York, NY",
+   "latLong": {
+    "lat": 40.73587260000001,
+    "lng": -73.9939698
+   }
+  }
+ },
+ {
+  "eventName": "SUNDAY AT SIX",
+  "location": "P.S. 41 (see footnote re: temp location)",
+  "details": "TEMPORARILY MEETING AT THE LGBT CENTER 208 W 13TH UNTIL FURTHER NOTICE",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   }
+  ],
+  "address": {
+   "street": "116 W. 11th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7355264,
+    "lng": -73.9991134
+   }
+  }
+ },
+ {
+  "eventName": "SUNDAY MORNING MEDITATION",
+  "location": "Gustavus Adolphus Church",
+  "details": "Meeting In Basement 11th Step Meditation Meeting",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 9,
+    "endTime": 10,
+    "from": "9:00 AM",
+    "to": "10:00 A",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Meditation"
+   }
+  ],
+  "address": {
+   "street": "155 East 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7384377,
+    "lng": -73.98400269999999
+   }
+  }
+ },
+ {
+  "eventName": "SUNDAY NOONERS",
+  "location": "East Midtown Plaza (Community Room H)",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "319 Eastr 24th Street, New York, NY",
+   "latLong": {
+    "lat": 40.738438,
+    "lng": -73.980164
+   }
+  }
+ },
+ {
+  "eventName": "SURVIVORS IN SOBRIETY",
+  "location": "Beth Israel Hospital @ Karpas Cancer Center Library",
+  "details": "Focus is on dealing with cancer in recovery. All are welcome",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Special Purpose Groups"
+   }
+  ],
+  "address": {
+   "street": "10 East Union Square, New York, NY",
+   "latLong": {
+    "lat": 40.734866,
+    "lng": -73.9896604
+   }
+  }
+ },
+ {
+  "eventName": "SVOBODA",
+  "location": "All Saints Ukrainian Orthodox Church",
+  "details": "Sunday=As Bill Sees It Ukrainian language translation is available if needed.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "As Bill Sees It"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 19,
+    "endTime": 20.15,
+    "from": "7:00 PM",
+    "to": "8:15 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 21,
+    "endTime": 22,
+    "from": "9:00 PM",
+    "to": "10:00 P",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "206-208 East 11th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7310649,
+    "lng": -73.988007
+   }
+  }
+ },
+ {
+  "eventName": "T.G.I.F. & S.",
+  "location": "Seafarers & International House",
+  "details": "Fri B = 1st Time in AA Only",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 20.45,
+    "endTime": 21.45,
+    "from": "8:45 PM",
+    "to": "9:45 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "123 East 15th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7346749,
+    "lng": -73.9880046
+   }
+  }
+ },
+ {
+  "eventName": "THE 12th STREET WORKSHOP",
+  "details": "Sun.4:30=Business Mtg Only 1st & Anniv Last Sunday Sun.7:30pm,Tue.5:30,Wed.8:30pm & Sat.10:30am=11th Step Meditation Mon.5:30=Gratitude & Sat.7:30am=AA Grapevine",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 12,
+    "endTime": 12,
+    "from": "12:00 AM",
+    "to": "12:00 A"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 6.15,
+    "endTime": 7.15,
+    "from": "6:15 AM",
+    "to": "7:15 AM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 9,
+    "endTime": 10,
+    "from": "9:00 AM",
+    "to": "10:00 A",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 9.3,
+    "endTime": 10.3,
+    "from": "9:30 AM",
+    "to": "10:30 A",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Steps 1-2-3"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 10.3,
+    "endTime": 11.3,
+    "from": "10:30 AM",
+    "to": "11:30 A",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 11,
+    "endTime": 12,
+    "from": "11:00 AM",
+    "to": "12:00 P",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 11.15,
+    "endTime": 12.15,
+    "from": "11:15 AM",
+    "to": "12:15 P",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 13.15,
+    "endTime": 14.15,
+    "from": "1:15 PM",
+    "to": "2:15 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Sponsorship Workshop"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 13.3,
+    "endTime": 14.3,
+    "from": "1:30 PM",
+    "to": "2:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 14,
+    "endTime": 15,
+    "from": "2:00 PM",
+    "to": "3:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 14.3,
+    "endTime": 15.3,
+    "from": "2:30 PM",
+    "to": "3:30 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 15,
+    "endTime": 16,
+    "from": "3:00 PM",
+    "to": "4:00 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Fourth Step Workshop"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 16.3,
+    "endTime": 17.3,
+    "from": "4:30 PM",
+    "to": "5:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 16.3,
+    "endTime": 17.3,
+    "from": "4:30 PM",
+    "to": "5:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "O = Open meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "First Step Workshop"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Gay Men"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19,
+    "endTime": 8,
+    "from": "7:00 PM",
+    "to": "8:00 AM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "T = Tradition meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Promises"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 20.15,
+    "endTime": 21.15,
+    "from": "8:15 PM",
+    "to": "9:15 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 20.15,
+    "endTime": 21.15,
+    "from": "8:15 PM",
+    "to": "9:15 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Women"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Living Sober"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "First Step Workshop"
+   }
+  ],
+  "address": {
+   "street": "411 East 12th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7298724,
+    "lng": -73.9827759
+   }
+  }
+ },
+ {
+  "eventName": "THE FELLOWSHIP CLUB Fellowship Club",
+  "location": "McBurney YMCA",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "125 West 14th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380197,
+    "lng": -73.99775679999999
+   }
+  }
+ },
+ {
+  "eventName": "TRANSGENDER FOCUS",
+  "location": "LGBT Community Center",
+  "details": "Trans-female focus",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "TWELVE AT SIX",
+  "location": "Beth Israel Phillips Ambulatory Center",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "10 Union Square East, New York, NY",
+   "latLong": {
+    "lat": 40.734866,
+    "lng": -73.9896604
+   }
+  }
+ },
+ {
+  "eventName": "UPON AWAKENING",
+  "location": "St. Francis Residence",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 12.45,
+    "endTime": 13.45,
+    "from": "12:45 PM",
+    "to": "1:45 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Eleventh Step"
+   }
+  ],
+  "address": {
+   "street": "155 West 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7431787,
+    "lng": -73.9952776
+   }
+  }
+ },
+ {
+  "eventName": "VILLAGE AGNOSTICS",
+  "location": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+  "details": "Sun.5:30pm meets only on the last Sunday of the month No Prayers - All Welcome - Check listing for Rm #",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 16,
+    "endTime": 17,
+    "from": "4:00 PM",
+    "to": "5:00 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Agnostic"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Agnostic"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "VILLAGE OPEN DISCUSSION (V.O.D.) Village Open Discussion",
+  "location": "First Presbyterian Church",
+  "details": "1st & 3rd Wk=Step/Big Book , 2nd & 4th Wk=Promises",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 18.3,
+    "endTime": 19.3,
+    "from": "6:30 PM",
+    "to": "7:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "12 West 12th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7347542,
+    "lng": -73.9950052
+   }
+  }
+ },
+ {
+  "eventName": "VILLAGE SOBER OVER & UNDER 60",
+  "location": "The Caring Community",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 15.3,
+    "endTime": 16.3,
+    "from": "3:30 PM",
+    "to": "4:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "20 Washington Square North, New York, NY",
+   "latLong": {
+    "lat": 40.7319414,
+    "lng": -73.9976956
+   }
+  }
+ },
+ {
+  "eventName": "WEEKENDERS",
+  "location": "14th Street Y",
+  "details": "Please Do Not Call the Y for Meeting Info.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 10,
+    "endTime": 11,
+    "from": "10:00 AM",
+    "to": "11:00 A",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "344 East 14th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7312884,
+    "lng": -73.9832952
+   }
+  }
+ },
+ {
+  "eventName": "WEST 22nd STREET SOBRIETY West 22nd Street Sobriety",
+  "location": "St. Francis Residence",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "155 West 22nd Street, New York, NY",
+   "latLong": {
+    "lat": 40.7431787,
+    "lng": -73.9952776
+   }
+  }
+ },
+ {
+  "eventName": "WESTWINGERS Westwingers (:I)",
+  "location": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+  "details": "Lesbian and gay focus. All are welcome Meeting format is \"Round Robin.\"",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 21,
+    "endTime": 22,
+    "from": "9:00 PM",
+    "to": "10:00 P",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "WHOLESALE MIRACLES",
+  "location": "Trinity Lutheran Church",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "BB = Big Book meeting"
+   }
+  ],
+  "address": {
+   "street": "602 East 9th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7260263,
+    "lng": -73.9801554
+   }
+  }
+ },
+ {
+  "eventName": "WOMEN NOW",
+  "location": "Gay, Lesbian, Bi-Sexual & Transgender Community Center",
+  "details": "Topic Meeting & Anniv. Last Tuesday.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "WOMEN TOGETHER (:I)",
+  "location": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+  "details": "Women's Meeting Lesbian Focus. All are welcome",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Lesbian"
+   }
+  ],
+  "address": {
+   "street": "208 West 13th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7380161,
+    "lng": -74.0011104
+   }
+  }
+ },
+ {
+  "eventName": "WOMEN'S SATURDAY ELEVENTH STEP MEDITATION",
+  "location": "Realization Center",
+  "details": "11th Step Meditation Meeting.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 11,
+    "endTime": 12,
+    "from": "11:00 AM",
+    "to": "12:00 P",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "19 Union Square West, New York, NY",
+   "latLong": {
+    "lat": 40.7361079,
+    "lng": -73.991242
+   }
+  }
+ },
+ {
+  "eventName": "WORKS IN PROGRESS",
+  "location": "Most Holy Redeemer Church",
+  "details": "Rotating Literature",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "AA Literature"
+   }
+  ],
+  "address": {
+   "street": "173 East 3rd Street- basement, New York, NY",
+   "latLong": {
+    "lat": 40.7234082,
+    "lng": -73.98430259999999
+   }
+  }
+ },
+ {
+  "eventName": "YOUNG AND WISE",
+  "location": "Middle Collegiate Church ",
+  "details": "Basement",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 20,
+    "endTime": 21.3,
+    "from": "8:00 PM",
+    "to": "9:30 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Young People"
+   }
+  ],
+  "address": {
+   "street": "50 East 7th Street, New York, NY",
+   "latLong": {
+    "lat": 40.7275578,
+    "lng": -73.98765759999999
+   }
+  }
+ }
+]

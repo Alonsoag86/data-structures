@@ -1,0 +1,849 @@
+[
+ {
+  "eventName": "A DESIGN FOR LIVING",
+  "location": "St Andrews Church",
+  "details": "@Duane and Centre behind Federal courthouse enter thru driveway behind Church No meetings on Holidays",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 7,
+    "endTime": 8,
+    "from": "7:00 AM",
+    "to": "8:00 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 7,
+    "endTime": 8,
+    "from": "7:00 AM",
+    "to": "8:00 AM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "20 Cardinal Hayes Place, New York, NY",
+   "latLong": {
+    "lat": 40.7133628,
+    "lng": -74.0026069
+   }
+  }
+ },
+ {
+  "eventName": "CHAMBERS STREET A BRIDGE BACK",
+  "location": "St. Andrew's Church",
+  "details": "No meetings on Holidays. **LOCATION SUBJECT TO CHANGE- Call Inter-Group",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "BB = Big Book meeting"
+   }
+  ],
+  "address": {
+   "street": "20 Cardinal Hayes Place, New York, NY",
+   "latLong": {
+    "lat": 40.7133628,
+    "lng": -74.0026069
+   }
+  }
+ },
+ {
+  "eventName": "CHINATOWN",
+  "location": "Church of the Transfiguration",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 18.3,
+    "endTime": 19.3,
+    "from": "6:30 PM",
+    "to": "7:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "29 Mott Street, New York, NY",
+   "latLong": {
+    "lat": 40.7148116,
+    "lng": -73.99911709999999
+   }
+  }
+ },
+ {
+  "eventName": "DOWNTOWN",
+  "location": "St. Margaret's Residence",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "49 Fulton Street, New York, NY",
+   "latLong": {
+    "lat": 40.7081354,
+    "lng": -74.00394519999999
+   }
+  }
+ },
+ {
+  "eventName": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+  "details": "Thursday 1:30 = Alt. Step/Tradition Email exchangeviews1215@yahoo.com for questions",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 13.3,
+    "endTime": 14.3,
+    "from": "1:30 PM",
+    "to": "2:30 PM",
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Living Sober"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 13.3,
+    "endTime": 14.3,
+    "from": "1:30 PM",
+    "to": "2:30 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "44 John Street, New York, NY",
+   "latLong": {
+    "lat": 40.7091344,
+    "lng": -74.00810179999999
+   }
+  }
+ },
+ {
+  "eventName": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+  "details": "This is new location as of 9-12-14 M 7:30 am= Trad 1st Monday.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 6.3,
+    "endTime": 7.3,
+    "from": "6:30 AM",
+    "to": "7:30 AM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Topic"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 6.3,
+    "endTime": 7.3,
+    "from": "6:30 AM",
+    "to": "7:30 AM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 6.3,
+    "endTime": 7.3,
+    "from": "6:30 AM",
+    "to": "7:30 AM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Topic"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 6.3,
+    "endTime": 7.3,
+    "from": "6:30 AM",
+    "to": "7:30 AM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 6.3,
+    "endTime": 7.3,
+    "from": "6:30 AM",
+    "to": "7:30 AM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 7.3,
+    "endTime": 8.3,
+    "from": "7:30 AM",
+    "to": "8:30 AM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 7.45,
+    "endTime": 8.45,
+    "from": "7:45 AM",
+    "to": "8:45 AM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Round-Robin Meeting Format"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 7.45,
+    "endTime": 8.45,
+    "from": "7:45 AM",
+    "to": "8:45 AM",
+    "meetingType": "OD = Open Discussion meeting",
+    "specialInterest": "Round-Robin Meeting Format"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "49 Fulton Street, New York, NY",
+   "latLong": {
+    "lat": 40.7081354,
+    "lng": -74.00394519999999
+   }
+  }
+ },
+ {
+  "eventName": "FRIDAY DOWNTOWN",
+  "location": "St. Andrew's Church",
+  "details": "Note: Location Subject to change",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "20 Cardinal Hayes Place, New York, NY",
+   "latLong": {
+    "lat": 40.7133628,
+    "lng": -74.0026069
+   }
+  }
+ },
+ {
+  "eventName": "GATEWAY",
+  "location": "St. Peter's Church",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "BB = Big Book meeting"
+   }
+  ],
+  "address": {
+   "street": "22 Barclay Street, New York, NY",
+   "latLong": {
+    "lat": 40.7123651,
+    "lng": -74.009564
+   }
+  }
+ },
+ {
+  "eventName": "PASSING THE BAR",
+  "location": "St. Andrew's Church",
+  "details": "*Business meeting last Tuesday @ Mar,Jun,Sep & Dec.only. **Promises 1st Wednesday, ***T Last Thursday ** LOCATION IS SUBJECT TO CHANGE",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 13.15,
+    "endTime": 14.15,
+    "from": "1:15 PM",
+    "to": "2:15 PM",
+    "meetingType": "B = Beginners meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 13.15,
+    "endTime": 14.15,
+    "from": "1:15 PM",
+    "to": "2:15 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 13.15,
+    "endTime": 14.15,
+    "from": "1:15 PM",
+    "to": "2:15 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Promises"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 13.15,
+    "endTime": 14.15,
+    "from": "1:15 PM",
+    "to": "2:15 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 13.15,
+    "endTime": 14.15,
+    "from": "1:15 PM",
+    "to": "2:15 PM",
+    "meetingType": "BB = Big Book meeting"
+   }
+  ],
+  "address": {
+   "street": "20 Cardinal Hayes Place, New York, NY",
+   "latLong": {
+    "lat": 40.7133628,
+    "lng": -74.0026069
+   }
+  }
+ },
+ {
+  "eventName": "S.O.B.E.R.",
+  "location": "Saint Peter's Church",
+  "details": "Enter on Church Street Lower floor, Parish Office Room",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 19.3,
+    "endTime": 20.45,
+    "from": "7:30 PM",
+    "to": "8:45 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "22 Barclay Street (Basement), New York, NY",
+   "latLong": {
+    "lat": 40.7123651,
+    "lng": -74.009564
+   }
+  }
+ },
+ {
+  "eventName": "SANE AND SOBER",
+  "location": "Hazelden Tribeca",
+  "details": "Mental Health Challenges in Sobriety. *Alternating Closed & rotating 1, 2, 3 Step every other week. Open – Last Wednesday.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 19,
+    "endTime": 20,
+    "from": "7:00 PM",
+    "to": "8:00 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Mental Health Issues in Sobriety"
+   }
+  ],
+  "address": {
+   "street": "283 West Broadway, New York, NY",
+   "latLong": {
+    "lat": 40.7208017,
+    "lng": -74.0048389
+   }
+  }
+ },
+ {
+  "eventName": "SATURDAY AFTERNOON DISCUSSION",
+  "location": "Municipal Union Bldg DC 37",
+  "details": "Ask security guard for room #",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 14,
+    "endTime": 15.15,
+    "from": "2:00 PM",
+    "to": "3:15 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "125 Barclay Street, New York, NY",
+   "latLong": {
+    "lat": 40.7145883,
+    "lng": -74.012958
+   }
+  }
+ },
+ {
+  "eventName": "SEAMEN'S GROUP",
+  "location": "St. Margaret's House",
+  "details": "*Co-ed meeting, all are welcome.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 18,
+    "endTime": 19,
+    "from": "6:00 PM",
+    "to": "7:00 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "49 Fulton Street, New York, NY",
+   "latLong": {
+    "lat": 40.7081354,
+    "lng": -74.00394519999999
+   }
+  }
+ },
+ {
+  "eventName": "SEAPORT",
+  "location": "St. Margaret's House",
+  "details": "11th Step Meditation (Mon), Topic (Thu)",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "S = Step meeting",
+    "specialInterest": "Meditation"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 12.15,
+    "endTime": 13.15,
+    "from": "12:15 PM",
+    "to": "1:15 PM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "49 Fulton Street, New York, NY",
+   "latLong": {
+    "lat": 40.7081354,
+    "lng": -74.00394519999999
+   }
+  }
+ },
+ {
+  "eventName": "TOWER",
+  "location": "Church of Saint Andrew",
+  "details": "Step 1st Wednesday",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 17.3,
+    "endTime": 18.3,
+    "from": "5:30 PM",
+    "to": "6:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "20 Cardinal Hayes Place, New York, NY",
+   "latLong": {
+    "lat": 40.7133628,
+    "lng": -74.0026069
+   }
+  }
+ },
+ {
+  "eventName": "TRIANGLE GROUP",
+  "location": "Tribeca 12 Building",
+  "details": "Walk thru green doors; first floor, rear. Addtl meditation meeting on Sunday at 11:15 if room full",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Sundays",
+    "dayNumber": 0,
+    "startTime": 11,
+    "endTime": 12,
+    "from": "11:00 AM",
+    "to": "12:00 P",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Meditation"
+   },
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 12.3,
+    "endTime": 13.3,
+    "from": "12:30 PM",
+    "to": "1:30 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 18.3,
+    "endTime": 19.3,
+    "from": "6:30 PM",
+    "to": "7:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 18.3,
+    "endTime": 19.3,
+    "from": "6:30 PM",
+    "to": "7:30 PM",
+    "meetingType": "C = Closed Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "283 West Broadway, New York, NY",
+   "latLong": {
+    "lat": 40.7208017,
+    "lng": -74.0048389
+   }
+  }
+ },
+ {
+  "eventName": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+  "details": "this is the new location as of 9/8/14 tribecagroup2014@gmail.com",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Fridays",
+    "dayNumber": 5,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   },
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "BB = Big Book meeting"
+   },
+   {
+    "day": "Thursdays",
+    "dayNumber": 4,
+    "startTime": 19.3,
+    "endTime": 20.3,
+    "from": "7:30 PM",
+    "to": "8:30 PM",
+    "meetingType": "B = Beginners meeting"
+   }
+  ],
+  "address": {
+   "street": "49 Fulton Street, New York, NY",
+   "latLong": {
+    "lat": 40.7081354,
+    "lng": -74.00394519999999
+   }
+  }
+ },
+ {
+  "eventName": "TRIBECA GROUP @ ST. PETER'S CHURCH Tribeca",
+  "location": "St. Peter's Church",
+  "details": "Monday step - 3rd and 11th step workshop tribecagroup2014@gmail.com",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Mondays",
+    "dayNumber": 1,
+    "startTime": 19.45,
+    "endTime": 20.45,
+    "from": "7:45 PM",
+    "to": "8:45 PM",
+    "meetingType": "S = Step meeting"
+   },
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 20,
+    "endTime": 21,
+    "from": "8:00 PM",
+    "to": "9:00 PM",
+    "meetingType": "OD = Open Discussion meeting"
+   }
+  ],
+  "address": {
+   "street": "22 Barclay Street- basement chapel, New York, NY",
+   "latLong": {
+    "lat": 40.712362,
+    "lng": -74.009564
+   }
+  }
+ },
+ {
+  "eventName": "WOMEN'S DOWNTOWN AA STEP MEETING",
+  "location": "St. Andrew's Church",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 13.15,
+    "endTime": 14.15,
+    "from": "1:15 PM",
+    "to": "2:15 PM",
+    "meetingType": "S = Step meeting"
+   }
+  ],
+  "address": {
+   "street": "20 Cardinal Hayes Place, New York, NY",
+   "latLong": {
+    "lat": 40.7133628,
+    "lng": -74.0026069
+   }
+  }
+ },
+ {
+  "eventName": "YOUNG PEOPLE'S DIVERSITY",
+  "location": "Hazelden Center",
+  "details": "Lesbian, Gay, Bi-sexual & Transgendered Focus All are welcome.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Wednesdays",
+    "dayNumber": 3,
+    "startTime": 20.3,
+    "endTime": 21.3,
+    "from": "8:30 PM",
+    "to": "9:30 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Gay, Lesbian and Bisexual"
+   }
+  ],
+  "address": {
+   "street": "283 West Broadway, New York, NY",
+   "latLong": {
+    "lat": 40.7208017,
+    "lng": -74.0048389
+   }
+  }
+ },
+ {
+  "eventName": "YOUNG PEOPLE'S STEP",
+  "location": "Hazelden Center",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Tuesdays",
+    "dayNumber": 2,
+    "startTime": 19.45,
+    "endTime": 20.45,
+    "from": "7:45 PM",
+    "to": "8:45 PM",
+    "meetingType": "C = Closed Discussion meeting",
+    "specialInterest": "Young People"
+   }
+  ],
+  "address": {
+   "street": "283 West Broadway, New York, NY",
+   "latLong": {
+    "lat": 40.7208017,
+    "lng": -74.0048389
+   }
+  }
+ },
+ {
+  "eventName": "YOUTH ENJOYING SOBRIETY (Y.E.S.) Youth Enjoying Sobriety (Yes)",
+  "location": "Hazelden Center",
+  "details": "Open Anniv. Last Saturday.",
+  "wheelchairAccess": "true",
+  "meetingsInformationArray": [
+   {
+    "day": "Saturdays",
+    "dayNumber": 6,
+    "startTime": 19,
+    "endTime": 20.15,
+    "from": "7:00 PM",
+    "to": "8:15 PM",
+    "meetingType": "B = Beginners meeting",
+    "specialInterest": "Young People"
+   }
+  ],
+  "address": {
+   "street": "283 W. Broadway, New York, NY",
+   "latLong": {
+    "lat": 40.7208017,
+    "lng": -74.0048389
+   }
+  }
+ }
+]

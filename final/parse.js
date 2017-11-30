@@ -2,11 +2,8 @@ var fs = require('fs');
 var request = require('request'); 
 var cheerio = require('cheerio');
 var async = require('async');
-var file = ['m01', 'm02', 'm03', 'm04', 'm05', 'm06', 'm07', 'm08', 'm09', 'm10'];
-//var file = ['m02'];
-for (var i = 0; i < file.length; i++) {
-    var fileName = '../assignment1/data/' + file[i] + '.txt';
-    var content = fs.readFileSync(fileName);
+
+var content = fs.readFileSync('/home/ubuntu/workspace/assignment1/data/m09.txt');
 
 // I removed whitespace to see results more easily. Whitespace only ignored in XML mode
 var $ = cheerio.load(content, {
@@ -148,7 +145,7 @@ function populateArray () {
         //console.log (finalOutput); // console log to see that the information is being added.
     });
     
-    }
+
 async.eachSeries(finalOutput, lookUpGeos, makeJSON);
 }
 
@@ -163,9 +160,9 @@ function lookUpGeos(meeting, callback){
          meeting.address.latLong = JSON.parse(body).results[0].geometry.location;
          
      });
-     setTimeout(callback, 500);
+     setTimeout(callback, 1000);
 }
 
 function makeJSON() {
-require('fs').writeFile('./aameetings.JSON', JSON.stringify(finalOutput, null, 1));
+require('fs').writeFile('./zone09array.JSON', JSON.stringify(finalOutput, null, 1));
 }
