@@ -65,6 +65,10 @@
             font-weight: bold;
         }
         
+        a:visited {
+            color: #000000;
+        }
+
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB1i1litS1fbl12hlFuXOdygdnInKLAUtM&v=3.exp&signed_in=true"></script>
     <script>
