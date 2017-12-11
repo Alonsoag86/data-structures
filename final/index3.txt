@@ -83,6 +83,16 @@
 </head>
 
 <body>
+
+    <div id="info">
+        <h1>MANHATTAN AA MEETINGS, NYIG</h1>
+        <h3>Contact Us:</h3>
+        <ul>
+            <li>Phone: (212) 647-1680  | Phone volunteers available from 9AM to 2AM</li>
+            <li>Website: <a href="www.nyintergroup.org"> www.nyintergroup.org </a></li>
+            <li>Email: <a href="mailto:info@nyintergroup.org"> info@nyintergroup.org</a></li>
+        </ul>
+    </div>
     <div id="map-canvas"></div>
 </body>
 
